@@ -1,0 +1,26 @@
+.texto-menor {
+  font-size: 13px;
+}
+
+.divs-facilidades {
+  width: 325px;
+}
+
+.div-novidades {
+  width: 325px;
+}
+
+.botao-amarelo {
+  background-color: #fff200;
+  color: black;
+}
+
+.verde-limao {
+  color: #fff200;
+}
+
+@media (min-width: 768px) {
+  .div-novidades {
+    width: 696px;
+  }
+}
